@@ -1,11 +1,3 @@
-# Book review
-Group name and members name
+# myspringcloudgcpplanet
 
-Book Review App
-
-Parth Patel(coordinator A1),
-Tran Phan(coordinator A2),
-Jocelyn Reynolds,
-Ryan Salter,
-Angel Walker,
-Yuhan Yang,
+This repository belongs to the following blog post: https://mydeveloperplanet.com/2019/04/24/first-steps-with-gcp-sql/
