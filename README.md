@@ -1,3 +1,3 @@
-# myspringcloudgcpplanet
+# project 
 
-This repository belongs to the following blog post: https://mydeveloperplanet.com/2019/04/24/first-steps-with-gcp-sql/
+change project file name to mybookrev3 (if there're some errors)
